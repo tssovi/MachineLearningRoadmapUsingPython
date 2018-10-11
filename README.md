@@ -26,3 +26,23 @@ Now lets go step by step process to learn Machine Learning.
 
 **Step 4: Let's Start with Machine Learning**
    - We start learning Machine Learning now,for that we first need to know the theoretical concept of Machine Learning. For that we may follow the [CS156 from Caltech by Professor Yaser Abu-Mostafa](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+
+**Step 5: Let's Start implementing Machine Learning Algorithms**
+   - We learn SciPy, NumPy, Pandas, Matplotlib, Scikit Learn and Scikit Learn. Now it's time to practice all of them. We can practice in [Kaggle](https://www.kaggle.com/). We can also participate in many hackathon related with Machine Learning.
+   - Start learning and practicing with some advanced awesome technologies and packages like :
+     - [H2O](http://docs.h2o.ai/)
+     - [Scrapy](https://scrapy.org/)
+     - [PyBrain](http://pybrain.org/docs/)
+     - [Theano](http://deeplearning.net/software/theano/)
+   - Please find more on your own and learn, send an edit request to the list, and if I find the change substantial, I will approve it.
+
+**Step 6: Let's Start learning and implementing Neural Network Machine Learning Algorithms**
+   - So now we are ready to learn neural network and it's uses in Machine Learning. For this there are lots of advanced *Python* packages. But [Tensorflow](https://www.tensorflow.org/tutorials/) and [Keras](https://keras.io/) are mostly used.
+   - To know how a Neural Network works try to build a simple Neural Network from scratch. There are bunch of tutorials to this stuff.
+
+**Time Estimation:**
+   - For above mentioned steps if we use daily 5 - 6 hours a day then we may need approx 45 - 50 days to go through the all the step.
+   - Please keep in mind that it's a **Lifetime Exercise** pipeline.
+
+**N.B:**
+   - *Please keep in mind that **Machine Learning** in a lifetime learning process. So please be patient through learning and keep practiching.*
